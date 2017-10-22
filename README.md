@@ -14,8 +14,10 @@
 ## IPython Notebooks:
 
 * [Chapter 2: Python Language Basics, IPython, and Jupyter Notebooks]()
-  - [2.2 IPython Basics]()
-* [Chapter 3: Built-in Data Structures, Functions, and Files]()
+  - [chp02-Introduction(2013)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-02/chp02-Introduction%282013%29.ipynb)
+  - [2.2 IPython Basics](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-02/2.2%20IPython%20Basics.ipynb)
+  
+<!-- * [Chapter 3: Built-in Data Structures, Functions, and Files]()
 * [Chapter 4: NumPy Basics: Arrays and Vectorized Computation]()
 * [Chapter 5: Getting Started with pandas]()
 * [Chapter 6: Data Loading, Storage, and File Formats]()
@@ -27,7 +29,7 @@
 * [Chapter 12: Advanced pandas](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch12.ipynb)
 * [Chapter 13: Introduction to Modeling Libraries in Python](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch13.ipynb)
 * [Chapter 14: Data Analysis Examples](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch14.ipynb)
-* [Appendix A: Advanced NumPy](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/appa.ipynb)
+* [Appendix A: Advanced NumPy](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/appa.ipynb) -->
 
 ## License
 
