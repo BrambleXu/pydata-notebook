@@ -15,9 +15,14 @@
 
 * [Chapter 2: Python Language Basics, IPython, and Jupyter Notebooks]()
   - [chp02-Introduction(2013)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-02/chp02-Introduction%282013%29.ipynb)
-  - [2.2 IPython Basics](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-02/2.2%20IPython%20Basics.ipynb)
-  
-<!-- * [Chapter 3: Built-in Data Structures, Functions, and Files]()
+  - [2.2 IPython Basics(IPython基础)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-02/2.2%20IPython%20Basics.ipynb)
+  - [2.3 Python语言基础)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-02/2.3%20Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80.ipynb)
+* [Chapter 3: Built-in Data Structures, Functions, and Files]()
+  - [3.1 Data Structures and Sequences (数据结构与序列)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-03/3.1%20Data%20Structures%20and%20Sequences%20%28%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E5%BA%8F%E5%88%97%29.ipynb)
+  - [3.2 Functions (函数)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-03/3.2%20Functions%20%28%E5%87%BD%E6%95%B0%29.ipynb)
+  - [3.3 Files and the Operating System (文件以及操作系统)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-03/3.3%20Files%20and%20the%20Operating%20System%20%28%E6%96%87%E4%BB%B6%E4%BB%A5%E5%8F%8A%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%29.ipynb)
+
+<!--
 * [Chapter 4: NumPy Basics: Arrays and Vectorized Computation]()
 * [Chapter 5: Getting Started with pandas]()
 * [Chapter 6: Data Loading, Storage, and File Formats]()
