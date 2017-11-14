@@ -35,7 +35,7 @@
   - [4.5 Linear Algebra (线性代数)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-04/4.5%20Linear%20Algebra%20%28%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%29.ipynb)
   - [4.6 Pseudorandom Number Generation（伪随机数生成）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-04/4.6%20Pseudorandom%20Number%20Generation%EF%BC%88%E4%BC%AA%E9%9A%8F%E6%9C%BA%E6%95%B0%E7%94%9F%E6%88%90%EF%BC%89.ipynb)
   - [4.7 Example Random Walks（一个例子：随机漫步）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-04/4.7%20Example%20Random%20Walks%EF%BC%88%E4%B8%80%E4%B8%AA%E4%BE%8B%E5%AD%90%EF%BC%9A%E9%9A%8F%E6%9C%BA%E6%BC%AB%E6%AD%A5%EF%BC%89.ipynb)
-  
+
 
 * [Chapter 5: Getting Started with pandas](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-05/)
   - [5.1 Introduction to pandas Data Structures（pandas的数据结构）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-05/5.1%20Introduction%20to%20pandas%20Data%20Structures%EF%BC%88pandas%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%89.ipynb)
@@ -43,9 +43,18 @@
   - [5.3 Summarizing and Computing Descriptive Statistics（汇总和描述性统计）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-05/5.3%20Summarizing%20and%20Computing%20Descriptive%20Statistics%EF%BC%88%E6%80%BB%E7%BB%93%E5%92%8C%E6%8F%8F%E8%BF%B0%E6%80%A7%E7%BB%9F%E8%AE%A1%EF%BC%89.ipynb)
 
 
+* [Chapter 6: Data Loading, Storage, and File Formats](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-06/)
+  - [6.1 Reading and Writing Data in Text Format (以文本格式读取和写入数据)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-06/6.1%20Reading%20and%20Writing%20Data%20in%20Text%20Format%20%28%E4%BB%A5%E6%96%87%E6%9C%AC%E6%A0%BC%E5%BC%8F%E8%AF%BB%E5%8F%96%E5%92%8C%E5%86%99%E5%85%A5%E6%95%B0%E6%8D%AE%29.ipynb)
+  - [6.2 Binary Data Formats (二进制数据格式)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-06/6.2%20Binary%20Data%20Formats%20%28%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F%29.ipynb)
+  - [6.3 Interacting with Web APIs (网络相关的API交互)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-06/6.3%20Interacting%20with%20Web%20APIs%20%28%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3%E7%9A%84API%E4%BA%A4%E4%BA%92%29.ipynb)
+  - [6.4 Interacting with Databases(与数据库的交互)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-06/6.4%20Interacting%20with%20Databases%28%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E4%BA%A4%E4%BA%92%29.ipynb)
+
+
+
+
 <!--
 
-* [Chapter 6: Data Loading, Storage, and File Formats]()
+
 * [Chapter 7: Data Cleaning and Preparation]()
 * [Chapter 8: Data Wrangling: Join, Combine, and Reshape]()
 * [Chapter 9: Plotting and Visualization](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch09.ipynb)
