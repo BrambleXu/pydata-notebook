@@ -50,12 +50,20 @@
   - [6.4 Interacting with Databases(与数据库的交互)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-06/6.4%20Interacting%20with%20Databases%28%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E4%BA%A4%E4%BA%92%29.ipynb)
 
 
+* [Chapter 7: Data Cleaning and Preparation](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-07/)
+  - [7.1 Handling Missing Data（处理缺失数据）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-07/7.1%20Handling%20Missing%20Data%EF%BC%88%E5%A4%84%E7%90%86%E7%BC%BA%E5%A4%B1%E6%95%B0%E6%8D%AE%EF%BC%89.ipynb)
+  - [7.2 Data Transformation（数据变换）
+](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-07/7.2%20Data%20Transformation%EF%BC%88%E6%95%B0%E6%8D%AE%E5%8F%98%E6%8D%A2%EF%BC%89.ipynb)
+  - [7.3 String Manipulation（字符串处理）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-07/7.3%20String%20Manipulation%EF%BC%88%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86%EF%BC%89.ipynb)
+
+  
+
+
 
 
 <!--
 
 
-* [Chapter 7: Data Cleaning and Preparation]()
 * [Chapter 8: Data Wrangling: Join, Combine, and Reshape]()
 * [Chapter 9: Plotting and Visualization](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch09.ipynb)
 * [Chapter 10: Data Aggregation and Group Operations](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch10.ipynb)
