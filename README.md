@@ -1,9 +1,21 @@
 # 利用Python进行数据分析 2017 第二版 （Python for Data Analysis, 2nd Edition）笔记
 
-这里是作者的[英文版github地址](https://github.com/wesm/pydata-book)。
+这里是作者的[英文版github地址](https://github.com/wesm/pydata-book)
+
+可以直接购买英文版：[Buy the book on Amazon][1]
+
+> 2017第二版主要更新：
+1. 所有代码，包括Python教程，都升级到了Python3.6（第一版用的是Python2.7）
+2. 更新了Python的安装介绍。这次改用Anaconda Python发行版，以及其他一些需要的Python包
+3. 使用了最新的2017版pandas
+4. 新增了一章，用来介绍pandas的高级应用工具，和其他一些有用的小贴士
+5. 简单介绍了如何使用statsmodels和scikit-learn
 
 这本书自2013年第一版发行后，就广受好评。最近打算把这本书完整过一遍，顺便通过jupyter记录下笔记分享给大家。
-不过在开始做第三章的笔记时，发现作者已经在2017推出了第二版，不过还没有中文版。
+
+作者[Wes McKinney](https://github.com/wesm)是pandas的创作者，所以说，还有什么比作者本人来直接告诉你pandas哪些用法更实用的呢。
+
+我在做第一版第三章的笔记时，才发现作者已经在2017推出了第二版，不过还没有中文版。
 所以这里我打算直接把书里的内容翻译成中文，做一个简洁版的Notebook版本。
 
 第一版的时候作者用的是Python2，不过随着Python2的维护年限将近（2020），以及Python3的推广，整个社群向Python3转变已经成为不可扭转的趋势。
@@ -37,26 +49,26 @@
   - [4.7 Example Random Walks（一个例子：随机漫步）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-04/4.7%20Example%20Random%20Walks%EF%BC%88%E4%B8%80%E4%B8%AA%E4%BE%8B%E5%AD%90%EF%BC%9A%E9%9A%8F%E6%9C%BA%E6%BC%AB%E6%AD%A5%EF%BC%89.ipynb)
 
 
-* [Chapter 5: Getting Started with pandas](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-05/)
+* [Chapter 5: Getting Started with pandas（开始使用pandas）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-05/)
   - [5.1 Introduction to pandas Data Structures（pandas的数据结构）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-05/5.1%20Introduction%20to%20pandas%20Data%20Structures%EF%BC%88pandas%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%89.ipynb)
   - [5.2 Essential Functionality（主要功能）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-05/5.2%20Essential%20Functionality%EF%BC%88%E4%B8%BB%E8%A6%81%E5%8A%9F%E8%83%BD%EF%BC%89.ipynb)
   - [5.3 Summarizing and Computing Descriptive Statistics（汇总和描述性统计）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-05/5.3%20Summarizing%20and%20Computing%20Descriptive%20Statistics%EF%BC%88%E6%80%BB%E7%BB%93%E5%92%8C%E6%8F%8F%E8%BF%B0%E6%80%A7%E7%BB%9F%E8%AE%A1%EF%BC%89.ipynb)
 
 
-* [Chapter 6: Data Loading, Storage, and File Formats](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-06/)
+* [Chapter 6: Data Loading, Storage, and File Formats（数据加载，存储，文件格式）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-06/)
   - [6.1 Reading and Writing Data in Text Format (以文本格式读取和写入数据)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-06/6.1%20Reading%20and%20Writing%20Data%20in%20Text%20Format%20%28%E4%BB%A5%E6%96%87%E6%9C%AC%E6%A0%BC%E5%BC%8F%E8%AF%BB%E5%8F%96%E5%92%8C%E5%86%99%E5%85%A5%E6%95%B0%E6%8D%AE%29.ipynb)
   - [6.2 Binary Data Formats (二进制数据格式)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-06/6.2%20Binary%20Data%20Formats%20%28%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F%29.ipynb)
   - [6.3 Interacting with Web APIs (网络相关的API交互)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-06/6.3%20Interacting%20with%20Web%20APIs%20%28%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3%E7%9A%84API%E4%BA%A4%E4%BA%92%29.ipynb)
   - [6.4 Interacting with Databases(与数据库的交互)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-06/6.4%20Interacting%20with%20Databases%28%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E4%BA%A4%E4%BA%92%29.ipynb)
 
 
-* [Chapter 7: Data Cleaning and Preparation](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-07/)
+* [Chapter 7: Data Cleaning and Preparation（数据清洗和预备）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-07/)
   - [7.1 Handling Missing Data（处理缺失数据）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-07/7.1%20Handling%20Missing%20Data%EF%BC%88%E5%A4%84%E7%90%86%E7%BC%BA%E5%A4%B1%E6%95%B0%E6%8D%AE%EF%BC%89.ipynb)
   - [7.2 Data Transformation（数据变换）
 ](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-07/7.2%20Data%20Transformation%EF%BC%88%E6%95%B0%E6%8D%AE%E5%8F%98%E6%8D%A2%EF%BC%89.ipynb)
   - [7.3 String Manipulation（字符串处理）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-07/7.3%20String%20Manipulation%EF%BC%88%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86%EF%BC%89.ipynb)
 
-  
+
 
 
 
@@ -80,3 +92,6 @@
 The code in this repository, including all code samples in the notebooks listed
 above, is released under the [MIT license](LICENSE-CODE). Read more at the
 [Open Source Initiative](https://opensource.org/licenses/MIT).
+
+
+[1]: http://amzn.to/2vvBijB
