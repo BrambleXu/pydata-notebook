@@ -5,11 +5,11 @@
 可以直接购买英文版：[Buy the book on Amazon][1]
 
 > 2017第二版主要更新：
-1. 所有代码，包括Python教程，都升级到了Python3.6（第一版用的是Python2.7）
-2. 更新了Python的安装介绍。这次改用Anaconda Python发行版，以及其他一些需要的Python包
-3. 使用了最新的2017版pandas
-4. 新增了一章，用来介绍pandas的高级应用工具，和其他一些有用的小贴士
-5. 简单介绍了如何使用statsmodels和scikit-learn
+>1. 所有代码，包括Python教程，都升级到了Python3.6（第一版用的是Python2.7）
+>2. 更新了Python的安装介绍。这次改用Anaconda Python发行版，以及其他一些需要的Python包
+>3. 使用了最新的2017版pandas
+>4. 新增了一章，用来介绍pandas的高级应用工具，和其他一些有用的小贴士
+>5. 简单介绍了如何使用statsmodels和scikit-learn
 
 这本书自2013年第一版发行后，就广受好评。最近打算把这本书完整过一遍，顺便通过jupyter记录下笔记分享给大家。
 
@@ -62,7 +62,7 @@
   - [6.4 Interacting with Databases(与数据库的交互)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-06/6.4%20Interacting%20with%20Databases%28%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E4%BA%A4%E4%BA%92%29.ipynb)
 
 
-* [Chapter 7: Data Cleaning and Preparation（数据清洗和预备）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-07/)
+* [Chapter 7: Data Cleaning and Preparation（数据清洗和准备）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-07/)
   - [7.1 Handling Missing Data（处理缺失数据）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-07/7.1%20Handling%20Missing%20Data%EF%BC%88%E5%A4%84%E7%90%86%E7%BC%BA%E5%A4%B1%E6%95%B0%E6%8D%AE%EF%BC%89.ipynb)
   - [7.2 Data Transformation（数据变换）
 ](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-07/7.2%20Data%20Transformation%EF%BC%88%E6%95%B0%E6%8D%AE%E5%8F%98%E6%8D%A2%EF%BC%89.ipynb)
