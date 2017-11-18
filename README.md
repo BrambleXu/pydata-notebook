@@ -11,15 +11,16 @@
 >4. 新增了一章，用来介绍pandas的高级应用工具，和其他一些有用的小贴士
 >5. 简单介绍了如何使用statsmodels和scikit-learn
 
-这本书自2013年第一版发行后，就广受好评。最近打算把这本书完整过一遍，顺便通过jupyter记录下笔记分享给大家。
 
 作者[Wes McKinney](https://github.com/wesm)是pandas的创作者，所以说，还有什么比作者本人来直接告诉你pandas哪些用法更实用的呢。
 
-我在做第一版第三章的笔记时，才发现作者已经在2017推出了第二版，不过还没有中文版。
+这本书自2013年第一版发行后，就广受好评。最近打算把这本书完整过一遍，顺便通过jupyter记录下笔记分享给大家。
+
+我在做第一版第三章的笔记时，才发现作者已经在2017年推出了第二版，不过暂时还没有中文版。
 所以这里我打算直接把书里的内容翻译成中文，做一个简洁版的Notebook版本。
 
 第一版的时候作者用的是Python2，不过随着Python2的维护年限将近（2020），以及Python3的推广，整个社群向Python3转变已经成为不可扭转的趋势。
-所以在第二版里，作者使用了Python3.6。而我实际写的代码则是基于Python3.5，不过应该没什么差别就是了。
+所以在第二版里，作者使用了Python3.6。而我实际写的代码则是基于Python3.5，使用上没有任何差别。
 
 在写笔记的时候，我尽量写中文，不过有一些专有名字我是直接写英文，然后配上中文翻译，毕竟有时候知道英文单词的话查找英文的文档也方便一些，而且我相信这样做对提升中文和英文专业名字的对照关系有帮助。毕竟在程序员的世界里，不懂英语会很艰难，即使是一些简单的单词，也是我们走向新世界的起点。
 
@@ -69,6 +70,11 @@
   - [7.3 String Manipulation（字符串处理）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-07/7.3%20String%20Manipulation%EF%BC%88%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86%EF%BC%89.ipynb)
 
 
+* [Chapter 8: Data Wrangling: Join, Combine, and Reshape]()
+  - [8.1 Hierarchical Indexing（分层索引）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-08/8.1%20Hierarchical%20Indexing%EF%BC%88%E5%88%86%E5%B1%82%E7%B4%A2%E5%BC%95%EF%BC%89.ipynb)
+  - [8.2 Combining and Merging Datasets（合并数据集）
+  ](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-08/8.2%20Combining%20and%20Merging%20Datasets%EF%BC%88%E5%90%88%E5%B9%B6%E6%95%B0%E6%8D%AE%E9%9B%86%EF%BC%89.ipynb)
+  - [8.3 Reshaping and Pivoting（整形和旋转）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-08/8.3%20Reshaping%20and%20Pivoting%EF%BC%88%E6%95%B4%E5%BD%A2%E5%92%8C%E6%97%8B%E8%BD%AC%EF%BC%89.ipynb)
 
 
 
@@ -76,13 +82,39 @@
 <!--
 
 
-* [Chapter 8: Data Wrangling: Join, Combine, and Reshape]()
-* [Chapter 9: Plotting and Visualization](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch09.ipynb)
-* [Chapter 10: Data Aggregation and Group Operations](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch10.ipynb)
-* [Chapter 11: Time Series](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch11.ipynb)
-* [Chapter 12: Advanced pandas](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch12.ipynb)
-* [Chapter 13: Introduction to Modeling Libraries in Python](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch13.ipynb)
-* [Chapter 14: Data Analysis Examples](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch14.ipynb)
+
+* [Chapter 9: Plotting and Visualization]()
+  - []()
+  - []()
+  - []()
+
+* [Chapter 10: Data Aggregation and Group Operations]()
+- []()
+- []()
+- []()
+
+* [Chapter 11: Time Series]()
+- []()
+- []()
+- []()
+
+* [Chapter 12: Advanced pandas]()
+- []()
+- []()
+- []()
+
+* [Chapter 13: Introduction to Modeling Libraries in Python]()
+- []()
+- []()
+- []()
+
+
+* [Chapter 14: Data Analysis Examples]()
+- []()
+- []()
+- []()
+
+
 * [Appendix A: Advanced NumPy](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/appa.ipynb) -->
 
 ## License
