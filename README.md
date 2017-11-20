@@ -70,7 +70,7 @@
   - [7.3 String Manipulation（字符串处理）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-07/7.3%20String%20Manipulation%EF%BC%88%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86%EF%BC%89.ipynb)
 
 
-* [Chapter 8: Data Wrangling: Join, Combine, and Reshape]()
+* [Chapter 8: Data Wrangling: Join, Combine, and Reshape](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-08/)
   - [8.1 Hierarchical Indexing（分层索引）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-08/8.1%20Hierarchical%20Indexing%EF%BC%88%E5%88%86%E5%B1%82%E7%B4%A2%E5%BC%95%EF%BC%89.ipynb)
   - [8.2 Combining and Merging Datasets（合并数据集）
   ](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-08/8.2%20Combining%20and%20Merging%20Datasets%EF%BC%88%E5%90%88%E5%B9%B6%E6%95%B0%E6%8D%AE%E9%9B%86%EF%BC%89.ipynb)
