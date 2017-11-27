@@ -78,10 +78,11 @@
   ](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-08/8.2%20Combining%20and%20Merging%20Datasets%EF%BC%88%E5%90%88%E5%B9%B6%E6%95%B0%E6%8D%AE%E9%9B%86%EF%BC%89.ipynb)
   - [8.3 Reshaping and Pivoting（整形和旋转）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-08/8.3%20Reshaping%20and%20Pivoting%EF%BC%88%E6%95%B4%E5%BD%A2%E5%92%8C%E6%97%8B%E8%BD%AC%EF%BC%89.ipynb)
 
-  * [Chapter 9: Plotting and Visualization（绘图和可视化）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-09/)
-    - [9.1 A Brief matplotlib API Primer（一个简单的matplotlib API入门）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-09/9.1%20A%20Brief%20matplotlib%20API%20Primer%EF%BC%88%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84matplotlib%20API%E5%85%A5%E9%97%A8%EF%BC%89.ipynb)
-    - [9.2 Plotting with pandas and seaborn（用pandas和seaborn绘图）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-09/9.2%20Plotting%20with%20pandas%20and%20seaborn%EF%BC%88%E7%94%A8pandas%E5%92%8Cseaborn%E7%BB%98%E5%9B%BE%EF%BC%89.ipynb)
-    - [9.3 Other Python Visualization Tools（其他一些Python可视化工具）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-09/9.3%20Other%20Python%20Visualization%20Tools%EF%BC%88%E5%85%B6%E4%BB%96%E4%B8%80%E4%BA%9BPython%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B7%A5%E5%85%B7%EF%BC%89.ipynb)
+
+* [Chapter 9: Plotting and Visualization（绘图和可视化）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-09/)
+  - [9.1 A Brief matplotlib API Primer（一个简单的matplotlib API入门）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-09/9.1%20A%20Brief%20matplotlib%20API%20Primer%EF%BC%88%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84matplotlib%20API%E5%85%A5%E9%97%A8%EF%BC%89.ipynb)
+  - [9.2 Plotting with pandas and seaborn（用pandas和seaborn绘图）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-09/9.2%20Plotting%20with%20pandas%20and%20seaborn%EF%BC%88%E7%94%A8pandas%E5%92%8Cseaborn%E7%BB%98%E5%9B%BE%EF%BC%89.ipynb)
+  - [9.3 Other Python Visualization Tools（其他一些Python可视化工具）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-09/9.3%20Other%20Python%20Visualization%20Tools%EF%BC%88%E5%85%B6%E4%BB%96%E4%B8%80%E4%BA%9BPython%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B7%A5%E5%85%B7%EF%BC%89.ipynb)
 
 
 <!--
