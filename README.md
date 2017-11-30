@@ -84,16 +84,19 @@
   - [9.3 Other Python Visualization Tools（其他一些Python可视化工具）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-09/9.3%20Other%20Python%20Visualization%20Tools%EF%BC%88%E5%85%B6%E4%BB%96%E4%B8%80%E4%BA%9BPython%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B7%A5%E5%85%B7%EF%BC%89.ipynb)
 
 
+* [Chapter 10: Data Aggregation and Group Operations](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-10/)
+  - [10.1 GroupBy Mechanics（分组机制）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-10/10.1%20GroupBy%20Mechanics%EF%BC%88%E5%88%86%E7%BB%84%E6%9C%BA%E5%88%B6%EF%BC%89.ipynb)
+  - [10.2 Data Aggregation（数据聚合）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-10/10.2%20Data%20Aggregation%EF%BC%88%E6%95%B0%E6%8D%AE%E8%81%9A%E5%90%88%EF%BC%89.ipynb)
+  - [10.3 Apply：General split-apply-combine（应用：通用的分割-应用-合并）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-10/10.3%20Apply%EF%BC%9AGeneral%20split-apply-combine%EF%BC%88%E5%BA%94%E7%94%A8%EF%BC%9A%E9%80%9A%E5%B8%B8%E7%9A%84%E5%88%86%E5%89%B2-%E5%BA%94%E7%94%A8-%E5%90%88%E5%B9%B6%EF%BC%89.ipynb)
+  - [10.4 Pivot Tables and Cross-Tabulation（数据透视表和交叉表）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-10/10.4%20Pivot%20Tables%20and%20Cross-Tabulation%EF%BC%88%E6%95%B0%E6%8D%AE%E9%80%8F%E8%A7%86%E8%A1%A8%E5%92%8C%E4%BA%A4%E5%8F%89%E8%A1%A8%EF%BC%89.ipynb)
+
 <!--
 
 
 
 
 
-* [Chapter 10: Data Aggregation and Group Operations]()
-- []()
-- []()
-- []()
+
 
 * [Chapter 11: Time Series]()
 - []()
