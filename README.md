@@ -48,7 +48,7 @@
   - [4.4 File Input and Output with Arrays（通过数组来进行文件的输入和输出）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-04/4.4%20File%20Input%20and%20Output%20with%20Arrays%EF%BC%88%E9%80%9A%E8%BF%87%E6%95%B0%E7%BB%84%E6%9D%A5%E8%BF%9B%E8%A1%8C%E6%96%87%E4%BB%B6%E7%9A%84%E8%BE%93%E5%85%A5%E5%92%8C%E8%BE%93%E5%87%BA%EF%BC%89.ipynb)
   - [4.5 Linear Algebra (线性代数)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-04/4.5%20Linear%20Algebra%20%28%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%29.ipynb)
   - [4.6 Pseudorandom Number Generation（伪随机数生成）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-04/4.6%20Pseudorandom%20Number%20Generation%EF%BC%88%E4%BC%AA%E9%9A%8F%E6%9C%BA%E6%95%B0%E7%94%9F%E6%88%90%EF%BC%89.ipynb)
-  - [4.7 Example Random Walks（一个例子：随机漫步）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-04/4.7%20Example%20Random%20Walks%EF%BC%88%E4%B8%80%E4%B8%AA%E4%BE%8B%E5%AD%90%EF%BC%9A%E9%9A%8F%E6%9C%BA%E6%BC%AB%E6%AD%A5%EF%BC%89.ipynb)
+  - [4.7 Example Random Walks（例子：随机漫步）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-04/4.7%20Example%20Random%20Walks%EF%BC%88%E4%B8%80%E4%B8%AA%E4%BE%8B%E5%AD%90%EF%BC%9A%E9%9A%8F%E6%9C%BA%E6%BC%AB%E6%AD%A5%EF%BC%89.ipynb)
 
 
 * [Chapter 5: Getting Started with pandas（开始使用pandas）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-05/)
@@ -79,7 +79,7 @@
 
 
 * [Chapter 9: Plotting and Visualization（绘图和可视化）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-09/)
-  - [9.1 A Brief matplotlib API Primer（一个简单的matplotlib API入门）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-09/9.1%20A%20Brief%20matplotlib%20API%20Primer%EF%BC%88%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84matplotlib%20API%E5%85%A5%E9%97%A8%EF%BC%89.ipynb)
+  - [9.1 A Brief matplotlib API Primer（简单的matplotlib API入门）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-09/9.1%20A%20Brief%20matplotlib%20API%20Primer%EF%BC%88%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84matplotlib%20API%E5%85%A5%E9%97%A8%EF%BC%89.ipynb)
   - [9.2 Plotting with pandas and seaborn（用pandas和seaborn绘图）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-09/9.2%20Plotting%20with%20pandas%20and%20seaborn%EF%BC%88%E7%94%A8pandas%E5%92%8Cseaborn%E7%BB%98%E5%9B%BE%EF%BC%89.ipynb)
   - [9.3 Other Python Visualization Tools（其他一些Python可视化工具）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-09/9.3%20Other%20Python%20Visualization%20Tools%EF%BC%88%E5%85%B6%E4%BB%96%E4%B8%80%E4%BA%9BPython%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B7%A5%E5%85%B7%EF%BC%89.ipynb)
 
