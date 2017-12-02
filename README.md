@@ -90,18 +90,19 @@
   - [10.3 Apply：General split-apply-combine（应用：通用的分割-应用-合并）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-10/10.3%20Apply%EF%BC%9AGeneral%20split-apply-combine%EF%BC%88%E5%BA%94%E7%94%A8%EF%BC%9A%E9%80%9A%E5%B8%B8%E7%9A%84%E5%88%86%E5%89%B2-%E5%BA%94%E7%94%A8-%E5%90%88%E5%B9%B6%EF%BC%89.ipynb)
   - [10.4 Pivot Tables and Cross-Tabulation（数据透视表和交叉表）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-10/10.4%20Pivot%20Tables%20and%20Cross-Tabulation%EF%BC%88%E6%95%B0%E6%8D%AE%E9%80%8F%E8%A7%86%E8%A1%A8%E5%92%8C%E4%BA%A4%E5%8F%89%E8%A1%A8%EF%BC%89.ipynb)
 
+
+
+* [Chapter 11: Time Series](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-11/)
+  - [11.1 Date and Time Data Types and Tools（日期和时间数据类型及其工具）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-11/11.1%20Date%20and%20Time%20Data%20Types%20and%20Tools%EF%BC%88%E6%97%A5%E6%9C%9F%E5%92%8C%E6%97%B6%E9%97%B4%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%B7%A5%E5%85%B7%EF%BC%89.ipynb)
+  - [11.2 Time Series Basics（时间序列基础）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-11/11.2%20Time%20Series%20Basics%EF%BC%88%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%9F%BA%E7%A1%80%EF%BC%89.ipynb)
+  - [11.3 Date Ranges, Frequencies, and Shifting（日期范围，频度，和位移）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-11/11.3%20Date%20Ranges%2C%20Frequencies%2C%20and%20Shifting%EF%BC%88%E6%97%A5%E6%9C%9F%E8%8C%83%E5%9B%B4%EF%BC%8C%E9%A2%91%E5%BA%A6%EF%BC%8C%E5%92%8C%E4%BD%8D%E7%A7%BB%EF%BC%89.ipynb)
+  - [11.4 Time Zone Handling（时区处理）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-11/11.4%20Time%20Zone%20Handling%EF%BC%88%E6%97%B6%E5%8C%BA%E5%A4%84%E7%90%86%EF%BC%89.ipynb)
+  - [11.5 Periods and Period Arithmetic（周期和周期运算）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-11/11.5%20Periods%20and%20Period%20Arithmetic%EF%BC%88%E5%91%A8%E6%9C%9F%E5%92%8C%E5%91%A8%E6%9C%9F%E8%BF%90%E7%AE%97%EF%BC%89.ipynb)
+  - [11.6 Resampling and Frequency Conversion（重采样和频度转换）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-11/11.6%20Resampling%20and%20Frequency%20Conversion%EF%BC%88%E9%87%8D%E9%87%87%E6%A0%B7%E5%92%8C%E9%A2%91%E5%BA%A6%E8%BD%AC%E6%8D%A2%EF%BC%89.ipynb)
+  - [11.7 Moving Window Functions（移动窗口函数）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-11/11.7%20Moving%20Window%20Functions%EF%BC%88%E7%A7%BB%E5%8A%A8%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0%EF%BC%89.ipynb)
+
+
 <!--
-
-
-
-
-
-
-
-* [Chapter 11: Time Series]()
-- []()
-- []()
-- []()
 
 * [Chapter 12: Advanced pandas]()
 - []()
