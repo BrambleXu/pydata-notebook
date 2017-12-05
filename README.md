@@ -102,12 +102,17 @@
   - [11.7 Moving Window Functions（移动窗口函数）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-11/11.7%20Moving%20Window%20Functions%EF%BC%88%E7%A7%BB%E5%8A%A8%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0%EF%BC%89.ipynb)
 
 
+
+* [Chapter 12: Advanced pandas](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-12/)
+  - [12.1 Categorical Data（类别数据）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-12/12.1%20Categorical%20Data%EF%BC%88%E7%B1%BB%E5%88%AB%E6%95%B0%E6%8D%AE%EF%BC%89.ipynb)
+  - [12.2 Advanced GroupBy Use（高级GroupBy用法）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-12/12.2%20Advanced%20GroupBy%20Use%EF%BC%88%E9%AB%98%E7%BA%A7GroupBy%E7%94%A8%E6%B3%95%EF%BC%89.ipynb)
+  - [12.3 Techniques for Method Chaining（方法链接的技巧）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-12/12.3%20Techniques%20for%20Method%20Chaining%EF%BC%88%E6%96%B9%E6%B3%95%E9%93%BE%E6%8E%A5%E7%9A%84%E6%8A%80%E5%B7%A7%EF%BC%89.ipynb)
+
+
+
 <!--
 
-* [Chapter 12: Advanced pandas]()
-- []()
-- []()
-- []()
+
 
 * [Chapter 13: Introduction to Modeling Libraries in Python]()
 - []()
