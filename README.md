@@ -1,4 +1,4 @@
-# 利用Python进行数据分析 2017 第二版 （Python for Data Analysis, 2nd Edition）笔记
+# 利用Python进行数据分析 2017 第二版 （Python for Data Analysis, 2nd Edition）中文翻译笔记
 
 这里是作者的[英文版github地址](https://github.com/wesm/pydata-book)
 
