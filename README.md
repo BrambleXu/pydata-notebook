@@ -1,6 +1,6 @@
 # 利用Python进行数据分析 2017 第二版 （Python for Data Analysis, 2nd Edition）中文翻译笔记
 
-这本书的[英文版github地址](https://github.com/wesm/pydata-book)
+这个是这本书的[英文版github地址](https://github.com/wesm/pydata-book)
 
 > 2017第二版主要更新：
 >1. 所有代码，包括Python教程，都升级到了Python3.6（第一版用的是Python2.7）
@@ -104,14 +104,14 @@
 
 
 
+* [Chapter 13: Introduction to Modeling Libraries in Python](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-13/)
+  - [13.1 Interfacing Between pandas and Model Code（pandas与建模代码间的交互）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-13/13.1%20Interfacing%20Between%20pandas%20and%20Model%20Code%EF%BC%88pandas%E4%B8%8E%E5%BB%BA%E6%A8%A1%E4%BB%A3%E7%A0%81%E9%97%B4%E7%9A%84%E4%BA%A4%E4%BA%92%EF%BC%89.ipynb)
+  - [13.2 Creating Model Descriptions with Patsy（利用Patsy创建模型描述）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-13/13.2%20Creating%20Model%20Descriptions%20with%20Patsy%EF%BC%88%E5%88%A9%E7%94%A8Patsy%E5%88%9B%E5%BB%BA%E6%A8%A1%E5%9E%8B%E6%8F%8F%E8%BF%B0%EF%BC%89.ipynb)
+  - [13.3 Introduction to statsmodels（statsmodels简介）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-13/13.3%20Introduction%20to%20statsmodels%EF%BC%88statsmodels%E7%AE%80%E4%BB%8B%EF%BC%89.ipynb)
+  - [13.4 Introduction to scikit-learn（scikit-learn简介）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-13/13.4%20Introduction%20to%20scikit-learn%EF%BC%88scikit-learn%E7%AE%80%E4%BB%8B%EF%BC%89.ipynb)
+
+
 <!--
-
-
-
-* [Chapter 13: Introduction to Modeling Libraries in Python]()
-- []()
-- []()
-- []()
 
 
 * [Chapter 14: Data Analysis Examples]()
