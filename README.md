@@ -1,6 +1,11 @@
 # 利用Python进行数据分析 2017 第二版 （Python for Data Analysis, 2nd Edition）中文翻译笔记
 
-这个是这本书的[英文版github地址](https://github.com/wesm/pydata-book)
+这个是这本书的英文版github地址：[pydata-book](https://github.com/wesm/pydata-book)
+
+作者[Wes McKinney](https://github.com/wesm)是pandas的创作者，所以书中关于pandas的讲解也是最实用的部分。我也直接联系过了Wes本人，这个笔记不会有任何版权问题，当然，也不会用于任何商业用途。
+
+这本书自2013年第一版发行后，就广受好评。第一版的时候作者用的是Python2，不过随着Python2的维护年限将近（2020），以及Python3的推广，整个社群向Python3转变已经成为不可扭转的趋势。所以在第二版里，作者使用了Python3.6。而我实际写的代码则是基于Python3.5，使用上没有任何差别。
+
 
 > 2017第二版主要更新：
 >1. 所有代码，包括Python教程，都升级到了Python3.6（第一版用的是Python2.7）
@@ -9,9 +14,6 @@
 >4. 新增了一章，用来介绍pandas的高级应用工具，和其他一些有用的小贴士
 >5. 简单介绍了如何使用statsmodels和scikit-learn
 
-作者[Wes McKinney](https://github.com/wesm)是pandas的创作者，所以书中关于pandas的讲解也是最实用的部分。我也直接联系过了Wes本人，这个笔记不会有任何版权问题，当然，也不会用于任何商业用途。
-
-这本书自2013年第一版发行后，就广受好评。第一版的时候作者用的是Python2，不过随着Python2的维护年限将近（2020），以及Python3的推广，整个社群向Python3转变已经成为不可扭转的趋势。所以在第二版里，作者使用了Python3.6。而我实际写的代码则是基于Python3.5，使用上没有任何差别。
 
 本来很早就知道这本书了，直到最近才终于有时间，打算把这本书完整过一遍，顺便用jupyter做成笔记方便以后查阅。结果我在看第一版第三章的时，突然发现作者已经在2017年推出了第二版，不过暂时还没有中文版。想了想反正也要做成笔记，索性直接把英文翻译成中文，做一个简洁版的Notebook版本分享出来好了，也算是为开源世界做点小贡献。
 
@@ -104,7 +106,7 @@
 
 
 
-* [Chapter 13: Introduction to Modeling Libraries in Python](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-13/)
+* [Chapter 13: Introduction to Modeling Libraries in Python（Python中建模库的介绍）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-13/)
   - [13.1 Interfacing Between pandas and Model Code（pandas与建模代码间的交互）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-13/13.1%20Interfacing%20Between%20pandas%20and%20Model%20Code%EF%BC%88pandas%E4%B8%8E%E5%BB%BA%E6%A8%A1%E4%BB%A3%E7%A0%81%E9%97%B4%E7%9A%84%E4%BA%A4%E4%BA%92%EF%BC%89.ipynb)
   - [13.2 Creating Model Descriptions with Patsy（利用Patsy创建模型描述）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-13/13.2%20Creating%20Model%20Descriptions%20with%20Patsy%EF%BC%88%E5%88%A9%E7%94%A8Patsy%E5%88%9B%E5%BB%BA%E6%A8%A1%E5%9E%8B%E6%8F%8F%E8%BF%B0%EF%BC%89.ipynb)
   - [13.3 Introduction to statsmodels（statsmodels简介）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-13/13.3%20Introduction%20to%20statsmodels%EF%BC%88statsmodels%E7%AE%80%E4%BB%8B%EF%BC%89.ipynb)
