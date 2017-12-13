@@ -133,12 +133,19 @@ above, is released under the [MIT license](LICENSE-CODE). Read more at the
 
 如果觉得有帮助，可以考虑打个赏，不论多少都是对我工作的肯定：）
 
-ETH: 0x0d9e310313a55cb8e48d69a2db27209db1b5a793
-XEM: 用户：ee517de9e47b31d5；地址：NAGJG3-QFWYZ3-7LMI7I-QPSGQN-YADGSJ-ZGJRD2-DIYA
-BCH: 1KL5zsbNDFV7DEfhMFLzTNqNEuHFTuqisY
+- ETH: 0x0d9e310313a55cb8e48d69a2db27209db1b5a793
+- XEM:
+  - 用户：ee517de9e47b31d5；
+  - 地址：NAGJG3-QFWYZ3-7LMI7I-QPSGQN-YADGSJ-ZGJRD2-DIYA
+- BCH: 1KL5zsbNDFV7DEfhMFLzTNqNEuHFTuqisY
 
-![wechat](http://oydgk2hgw.bkt.clouddn.com/pydata-book/xfv0k.jpeg)
+微信:
 
+![wechat](http://oydgk2hgw.bkt.clouddn.com/pydata-book/ynv08.jpeg)
+
+支付宝：
+
+![](http://oydgk2hgw.bkt.clouddn.com/pydata-book/n0det.jpeg)
 
 
 [1]: http://amzn.to/2vvBijB
