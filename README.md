@@ -21,7 +21,6 @@
 
 另外我并不是逐字逐句翻译，因为这样翻译出来的效果洋味十足，很难懂。我尽可能按方便理解的方式进行翻译，其他一些没有用的话我不进行翻译，就像上面说的，这是一个简洁版的笔记，只翻译书中有用的东西。不过因为是一个人在翻译整本书，工作量比较大，难免有错误和疏漏的地方，或者有读起来觉得奇怪的地方，如果有发现的话不要客气，请尽管说出来，欢迎任何改进和Pull Request。
 
-如果觉得有帮助的话，就点个Star吧：）
 
 ## Jupyter Notebooks:
 
@@ -126,11 +125,20 @@
 
 ## License
 
-### Code
-
 The code in this repository, including all code samples in the notebooks listed
 above, is released under the [MIT license](LICENSE-CODE). Read more at the
 [Open Source Initiative](https://opensource.org/licenses/MIT).
+
+## Sponsor
+
+如果觉得有帮助，可以考虑打个赏，不论多少都是对我工作的肯定：）
+
+ETH: 0x0d9e310313a55cb8e48d69a2db27209db1b5a793
+XEM: 用户：ee517de9e47b31d5；地址：NAGJG3-QFWYZ3-7LMI7I-QPSGQN-YADGSJ-ZGJRD2-DIYA
+BCH: 1KL5zsbNDFV7DEfhMFLzTNqNEuHFTuqisY
+
+![wechat](http://oydgk2hgw.bkt.clouddn.com/pydata-book/xfv0k.jpeg)
+
 
 
 [1]: http://amzn.to/2vvBijB
