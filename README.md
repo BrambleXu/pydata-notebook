@@ -131,7 +131,7 @@ above, is released under the [MIT license](LICENSE-CODE). Read more at the
 
 ## Sponsor
 
-如果觉得有帮助，可以考虑打个赏，不论多少都是对我工作的肯定：）
+如果觉得有帮助，可以打个赏，不论多少都是对我工作的肯定：）
 
 - ETH: 0x0d9e310313a55cb8e48d69a2db27209db1b5a793
 - XEM:
