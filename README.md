@@ -119,9 +119,16 @@
 - []()
 - []()
 - []()
+- []()
+- []()
 
 
-* [Appendix A: Advanced NumPy](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/appa.ipynb) -->
+* [Appendix A: Advanced NumPy]()
+- []()
+- []()
+- []()
+
+-->
 
 ## License
 
