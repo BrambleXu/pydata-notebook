@@ -112,18 +112,19 @@
   - [13.4 Introduction to scikit-learn（scikit-learn简介）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-13/13.4%20Introduction%20to%20scikit-learn%EF%BC%88scikit-learn%E7%AE%80%E4%BB%8B%EF%BC%89.ipynb)
 
 
-<!--
-<<<<<<< HEAD
-
 
 * [Chapter 14: Data Analysis Examples]()
-- []()
-- []()
-- []()
-- []()
-- []()
-=======
->>>>>>> af282928129cdf9728f6aec0ebc37e3dbf191698
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+
+
+<!--
+
+
+
 
 
 * [Appendix A: Advanced NumPy]()
