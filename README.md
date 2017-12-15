@@ -118,7 +118,7 @@
   - [14.2 MovieLens 1M Dataset（MovieLens 1M数据集）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-14/14.2%20MovieLens%201M%20Dataset%EF%BC%88MovieLens%201M%E6%95%B0%E6%8D%AE%E9%9B%86%EF%BC%89.ipynb)
   - [14.3 US Baby Names 1880–2010（1880年至2010年美国婴儿姓名）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-14/14.3%20US%20Baby%20Names%201880%E2%80%932010%EF%BC%881880%E5%B9%B4%E8%87%B32010%E5%B9%B4%E7%BE%8E%E5%9B%BD%E5%A9%B4%E5%84%BF%E5%A7%93%E5%90%8D%EF%BC%89.ipynb)
   - [14.4 USDA Food Database（美国农业部食品数据库）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-14/14.4%20USDA%20Food%20Database%EF%BC%88USDA%E9%A3%9F%E5%93%81%E6%95%B0%E6%8D%AE%E5%BA%93%EF%BC%89.ipynb)
-  - [14.5 2012 Federal Election Commission Database（2012联邦选举委员会数据库）]()
+  <!-- - [14.5 2012 Federal Election Commission Database（2012联邦选举委员会数据库）]() -->
 
 
 <!--
