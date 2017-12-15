@@ -113,6 +113,7 @@
 
 
 <!--
+<<<<<<< HEAD
 
 
 * [Chapter 14: Data Analysis Examples]()
@@ -121,6 +122,8 @@
 - []()
 - []()
 - []()
+=======
+>>>>>>> af282928129cdf9728f6aec0ebc37e3dbf191698
 
 
 * [Appendix A: Advanced NumPy]()
