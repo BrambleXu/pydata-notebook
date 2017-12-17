@@ -24,6 +24,17 @@
 
 ## Jupyter Notebooks:
 
+
+* [CHAPTER 1：Preliminaries（预备知识）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-01/)
+  - [1.1 What Is This Book About?（这本书是关于什么的）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-01/1.1%20What%20Is%20This%20Book%20About%3F%EF%BC%88%E8%BF%99%E6%9C%AC%E4%B9%A6%E6%98%AF%E5%85%B3%E4%BA%8E%E4%BB%80%E4%B9%88%E7%9A%84%EF%BC%89.ipynb)
+  - [1.2 Why Python for Data Analysis?（为什么使用Python做数据分析）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-01/1.2%20Why%20Python%20for%20Data%20Analysis%3F%EF%BC%88%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%BF%E7%94%A8Python%E5%81%9A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%89.ipynb)
+  - [1.3 Essential Python Libraries（一些重要的Python库）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-01/1.3%20Essential%20Python%20Libraries%EF%BC%88%E4%B8%80%E4%BA%9B%E9%87%8D%E8%A6%81%E7%9A%84Python%E5%BA%93%EF%BC%89.ipynb)
+  - [1.4 Installation and Setup（安装和设置）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-01/1.4%20Installation%20and%20Setup%EF%BC%88%E5%AE%89%E8%A3%85%E5%92%8C%E8%AE%BE%E7%BD%AE%EF%BC%89.ipynb)
+  - [1.5 Community and Conferences（社区和讨论组）+ 私货](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-01/1.5%20Community%20and%20Conferences%EF%BC%88%E7%A4%BE%E5%8C%BA%E5%92%8C%E8%AE%A8%E8%AE%BA%E7%BB%84%EF%BC%89.ipynb)
+  - [1.6 Navigating This Book（本书导航）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-01/1.6%20Navigating%20This%20Book%EF%BC%88%E6%9C%AC%E4%B9%A6%E5%AF%BC%E8%88%AA%EF%BC%89.ipynb)
+
+
+
 * [Chapter 2: Python Language Basics, IPython, and Jupyter Notebooks (Python语言基础，Ipython和Jupyter Notebooks)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-02/)
   - [chp02-Introduction(2013)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-02/chp02-Introduction%282013%29.ipynb)
   - [2.2 IPython Basics (IPython基础)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-02/2.2%20IPython%E5%9F%BA%E7%A1%80.ipynb)
@@ -36,7 +47,7 @@
   - [3.3 Files and the Operating System (文件以及操作系统)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-03/3.3%20Files%20and%20the%20Operating%20System%20%28%E6%96%87%E4%BB%B6%E4%BB%A5%E5%8F%8A%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%29.ipynb)
 
 
-* [Chapter 4: NumPy Basics: Arrays and Vectorized Computation(NumPy基础：数组和向量化计算)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-04/)
+* [Chapter 4: NumPy Basics: Arrays and Vectorized Computation（NumPy基础：数组和向量化计算）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-04/)
   - [4.1 The NumPy ndarray: A Multidimensional Array Object（ndarray: 多维数组对象)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-04/4.1%20The%20NumPy%20ndarray%EF%BC%88%E5%A4%9A%E7%BB%B4%E6%95%B0%E7%BB%84%E5%AF%B9%E8%B1%A1%EF%BC%89.ipynb)
   - [4.2 Universal Functions: Fast Element-Wise Array Functions（通用函数：快速点对点数组函数）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-04/4.2%20Universal%20Functions%20%28%E9%80%9A%E7%94%A8%E5%87%BD%E6%95%B0%29.ipynb)
   - [4.3 Array-Oriented Programming with Arrays（数组导向编程）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-04/4.3%20Array-Oriented%20Programming%20with%20Arrays%EF%BC%88%E6%95%B0%E7%BB%84%E5%AF%BC%E5%90%91%E7%BC%96%E7%A8%8B%EF%BC%89.ipynb)
@@ -141,13 +152,12 @@ above, is released under the [MIT license](LICENSE-CODE). Read more at the
 
 ## Sponsor
 
-如果觉得有帮助，可以打个赏，不论多少都是对我工作的肯定：）
+如果觉得有帮助，可以赞个助，不论多少都是对我工作的肯定：）
 
 - ETH: 0x0d9e310313a55cb8e48d69a2db27209db1b5a793
-- XEM:
-  - 用户：ee517de9e47b31d5；
-  - 地址：NAGJG3-QFWYZ3-7LMI7I-QPSGQN-YADGSJ-ZGJRD2-DIYA
-- BCH: 1KL5zsbNDFV7DEfhMFLzTNqNEuHFTuqisY
+- EOS：0xb5f0a94f77e007b596a6e53a75f4ee04f0c72899
+- NEO：ASCc7rEZ1SAg2hnLicwkaVBMF9MyqWFKMz
+
 
 微信:
 
@@ -155,7 +165,7 @@ above, is released under the [MIT license](LICENSE-CODE). Read more at the
 
 支付宝：
 
-![](http://oydgk2hgw.bkt.clouddn.com/pydata-book/n0det.jpeg)
+![alipay](http://oydgk2hgw.bkt.clouddn.com/pydata-book/n0det.jpeg)
 
 
 [1]: http://amzn.to/2vvBijB
