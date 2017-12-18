@@ -37,8 +37,10 @@
 
 * [Chapter 2: Python Language Basics, IPython, and Jupyter Notebooks (Python语言基础，Ipython和Jupyter Notebooks)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-02/)
   - [chp02-Introduction(2013)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-02/chp02-Introduction%282013%29.ipynb)
+  - [2.1 The Python Interpreter（python解释器）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-02/2.1%20The%20Python%20Interpreter%EF%BC%88python%E8%A7%A3%E9%87%8A%E5%99%A8%EF%BC%89.ipynb)
   - [2.2 IPython Basics (IPython基础)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-02/2.2%20IPython%E5%9F%BA%E7%A1%80.ipynb)
   - [2.3 Python语言基础)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-02/2.3%20Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80.ipynb)
+
 
 
 * [Chapter 3: Built-in Data Structures, Functions, and Files (内建数据结构，函数和文件)](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-03/)
