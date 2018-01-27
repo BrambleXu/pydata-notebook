@@ -19,7 +19,7 @@
 
 在写笔记的时候，我尽量写中文，不过有一些专有名字我是直接写英文，然后配上中文翻译，毕竟有时候知道英文单词的话查找英文的文档也方便一些，而且我相信这样做对提升中文和英文专业名字的对照关系有帮助。毕竟在程序员的世界里，不懂英语会很艰难，即使是一些简单的单词，也是我们走向新世界的起点。
 
-另外我并不是逐字逐句翻译，因为这样翻译出来的效果洋味十足，很难懂。我尽可能按方便理解的方式进行翻译，其他一些没有用的话我不进行翻译，就像上面说的，这是一个简洁版的笔记，只翻译书中有用的东西。不过因为是一个人在翻译整本书，工作量比较大，难免有错误和疏漏的地方，或者有读起来觉得奇怪的地方，如果有发现的话不要客气，请尽管说出来，欢迎任何改进和Pull Request。
+另外我并不是逐字逐句翻译，因为这样翻译出来的效果洋味十足，很难懂。我尽可能按方便理解的方式进行翻译，其他一些没有用的话我不进行翻译。虽然是笔记，不过不用担心内容上有很大缺失，该有的基本都有了，再加上我时不时进行解说，内容应该比书里更丰富。不过因为是一个人在翻译整本书，工作量比较大，难免有错误和疏漏的地方，或者有读起来觉得奇怪的地方，如果有发现的话不要客气，请尽管说出来，欢迎任何改进和Pull Request。
 
 
 ## Jupyter Notebooks:
@@ -74,15 +74,13 @@
 
 * [Chapter 7: Data Cleaning and Preparation（数据清洗和准备）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-07/)
   - [7.1 Handling Missing Data（处理缺失数据）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-07/7.1%20Handling%20Missing%20Data%EF%BC%88%E5%A4%84%E7%90%86%E7%BC%BA%E5%A4%B1%E6%95%B0%E6%8D%AE%EF%BC%89.ipynb)
-  - [7.2 Data Transformation（数据变换）
-](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-07/7.2%20Data%20Transformation%EF%BC%88%E6%95%B0%E6%8D%AE%E5%8F%98%E6%8D%A2%EF%BC%89.ipynb)
+  - [7.2 Data Transformation（数据变换）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-07/7.2%20Data%20Transformation%EF%BC%88%E6%95%B0%E6%8D%AE%E5%8F%98%E6%8D%A2%EF%BC%89.ipynb)
   - [7.3 String Manipulation（字符串处理）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-07/7.3%20String%20Manipulation%EF%BC%88%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86%EF%BC%89.ipynb)
 
 
 * [Chapter 8: Data Wrangling: Join, Combine, and Reshape（数据加工：加入, 结合, 变型）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Chapter-08/)
   - [8.1 Hierarchical Indexing（分层索引）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-08/8.1%20Hierarchical%20Indexing%EF%BC%88%E5%88%86%E5%B1%82%E7%B4%A2%E5%BC%95%EF%BC%89.ipynb)
-  - [8.2 Combining and Merging Datasets（合并数据集）
-  ](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-08/8.2%20Combining%20and%20Merging%20Datasets%EF%BC%88%E5%90%88%E5%B9%B6%E6%95%B0%E6%8D%AE%E9%9B%86%EF%BC%89.ipynb)
+  - [8.2 Combining and Merging Datasets（合并数据集）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-08/8.2%20Combining%20and%20Merging%20Datasets%EF%BC%88%E5%90%88%E5%B9%B6%E6%95%B0%E6%8D%AE%E9%9B%86%EF%BC%89.ipynb)
   - [8.3 Reshaping and Pivoting（整形和旋转）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-08/8.3%20Reshaping%20and%20Pivoting%EF%BC%88%E6%95%B4%E5%BD%A2%E5%92%8C%E6%97%8B%E8%BD%AC%EF%BC%89.ipynb)
 
 
@@ -155,11 +153,6 @@ above, is released under the [MIT license](LICENSE-CODE). Read more at the
 ## Sponsor
 
 如果觉得有帮助，可以赞个助，不论多少都是对我工作的肯定：）
-
-- ETH: 0x0d9e310313a55cb8e48d69a2db27209db1b5a793
-- EOS：0xb5f0a94f77e007b596a6e53a75f4ee04f0c72899
-- NEO：ASCc7rEZ1SAg2hnLicwkaVBMF9MyqWFKMz
-
 
 微信:
 
