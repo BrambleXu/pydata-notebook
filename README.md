@@ -21,6 +21,8 @@
 
 另外我并不是逐字逐句翻译，因为这样翻译出来的效果洋味十足，很难懂。我尽可能按方便理解的方式进行翻译，其他一些没有用的话我不进行翻译。虽然是笔记，不过不用担心内容上有很大缺失，该有的基本都有了，再加上我时不时进行解说，内容应该比书里更丰富。不过因为是一个人在翻译整本书，工作量比较大，难免有错误和疏漏的地方，或者有读起来觉得奇怪的地方，如果有发现的话不要客气，请尽管说出来，欢迎任何改进和Pull Request。
 
+欢迎关注我的知乎：[link](https://www.zhihu.com/people/life-learner-lux)
+
 
 ## Jupyter Notebooks:
 
@@ -161,6 +163,3 @@ above, is released under the [MIT license](LICENSE-CODE). Read more at the
 支付宝：
 
 ![alipay](http://oydgk2hgw.bkt.clouddn.com/pydata-book/n0det.jpeg)
-
-
-[1]: http://amzn.to/2vvBijB
