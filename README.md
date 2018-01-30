@@ -134,16 +134,17 @@
   - [14.5 2012 Federal Election Commission Database（2012联邦选举委员会数据库）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Chapter-14/14.5%202012%20Federal%20Election%20Commission%20Database%EF%BC%882012%E8%81%94%E9%82%A6%E9%80%89%E4%B8%BE%E5%A7%94%E5%91%98%E4%BC%9A%E6%95%B0%E6%8D%AE%E5%BA%93%EF%BC%89.ipynb)
 
 
-  * [Appendix A: Advanced NumPy（高级NumPy用法）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Appendix-A/)
-    - [A.1 ndarray Object Internals（ndarray对象的内部）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-A/A.1%20ndarray%20Object%20Internals%EF%BC%88ndarray%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%86%85%E9%83%A8%EF%BC%89.ipynb)
-    - [A.2 Advanced Array Manipulation（数组操作的高级用法）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-A/A.2%20Advanced%20Array%20Manipulation%EF%BC%88%E6%95%B0%E7%BB%84%E6%93%8D%E4%BD%9C%E7%9A%84%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95%EF%BC%89.ipynb)
-    - [A.3 Broadcasting（广播）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-A/A.3%20Broadcasting%EF%BC%88%E5%B9%BF%E6%92%AD%EF%BC%89.ipynb)
-    - [A.4 Advanced ufunc Usage（高级ufunc用法）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-A/A.4%20Advanced%20ufunc%20Usage%EF%BC%88%E9%AB%98%E7%BA%A7ufunc%E7%94%A8%E6%B3%95%EF%BC%89.ipynb)
-    - [A.5 Structured and Record Arrays（结构化数组和记录数组）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-A/A.5%20Structured%20and%20Record%20Arrays%EF%BC%88%E7%BB%93%E6%9E%84%E5%8C%96%E6%95%B0%E7%BB%84%E5%92%8C%E8%AE%B0%E5%BD%95%E6%95%B0%E7%BB%84%EF%BC%89.ipynb)
-    - [A.6 More About Sorting（关于排序）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-A/A.6%20More%20About%20Sorting%EF%BC%88%E5%85%B3%E4%BA%8E%E6%8E%92%E5%BA%8F%EF%BC%89.ipynb)
-    - [A.7 Writing Fast NumPy Functions with Numba（利用Numba构建快速的NumPy函数）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-A/A.7%20Writing%20Fast%20NumPy%20Functions%20with%20Numba%EF%BC%88%E5%88%A9%E7%94%A8Numba%E6%9E%84%E5%BB%BA%E5%BF%AB%E9%80%9F%E7%9A%84NumPy%E5%87%BD%E6%95%B0%EF%BC%89.ipynb)
-    - [A.8 Advanced Array Input and Output（数组输入和输出的高级用法）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-A/A.8%20Advanced%20Array%20Input%20and%20Output%EF%BC%88%E6%95%B0%E7%BB%84%E8%BE%93%E5%85%A5%E5%92%8C%E8%BE%93%E5%87%BA%E7%9A%84%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95%EF%BC%89.ipynb)
-    - [A.9 Performance Tips（性能贴士）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-A/A.9%20Performance%20Tips%EF%BC%88%E6%80%A7%E8%83%BD%E8%B4%B4%E5%A3%AB%EF%BC%89.ipynb)
+
+* [Appendix A: Advanced NumPy（高级NumPy用法）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Appendix-A/)
+  - [A.1 ndarray Object Internals（ndarray对象的内部）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-A/A.1%20ndarray%20Object%20Internals%EF%BC%88ndarray%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%86%85%E9%83%A8%EF%BC%89.ipynb)
+  - [A.2 Advanced Array Manipulation（数组操作的高级用法）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-A/A.2%20Advanced%20Array%20Manipulation%EF%BC%88%E6%95%B0%E7%BB%84%E6%93%8D%E4%BD%9C%E7%9A%84%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95%EF%BC%89.ipynb)
+  - [A.3 Broadcasting（广播）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-A/A.3%20Broadcasting%EF%BC%88%E5%B9%BF%E6%92%AD%EF%BC%89.ipynb)
+  - [A.4 Advanced ufunc Usage（高级ufunc用法）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-A/A.4%20Advanced%20ufunc%20Usage%EF%BC%88%E9%AB%98%E7%BA%A7ufunc%E7%94%A8%E6%B3%95%EF%BC%89.ipynb)
+  - [A.5 Structured and Record Arrays（结构化数组和记录数组）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-A/A.5%20Structured%20and%20Record%20Arrays%EF%BC%88%E7%BB%93%E6%9E%84%E5%8C%96%E6%95%B0%E7%BB%84%E5%92%8C%E8%AE%B0%E5%BD%95%E6%95%B0%E7%BB%84%EF%BC%89.ipynb)
+  - [A.6 More About Sorting（关于排序）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-A/A.6%20More%20About%20Sorting%EF%BC%88%E5%85%B3%E4%BA%8E%E6%8E%92%E5%BA%8F%EF%BC%89.ipynb)
+  - [A.7 Writing Fast NumPy Functions with Numba（利用Numba构建快速的NumPy函数）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-A/A.7%20Writing%20Fast%20NumPy%20Functions%20with%20Numba%EF%BC%88%E5%88%A9%E7%94%A8Numba%E6%9E%84%E5%BB%BA%E5%BF%AB%E9%80%9F%E7%9A%84NumPy%E5%87%BD%E6%95%B0%EF%BC%89.ipynb)
+  - [A.8 Advanced Array Input and Output（数组输入和输出的高级用法）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-A/A.8%20Advanced%20Array%20Input%20and%20Output%EF%BC%88%E6%95%B0%E7%BB%84%E8%BE%93%E5%85%A5%E5%92%8C%E8%BE%93%E5%87%BA%E7%9A%84%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95%EF%BC%89.ipynb)
+  - [A.9 Performance Tips（性能贴士）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-A/A.9%20Performance%20Tips%EF%BC%88%E6%80%A7%E8%83%BD%E8%B4%B4%E5%A3%AB%EF%BC%89.ipynb)
 
 
 <!--
