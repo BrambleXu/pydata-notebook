@@ -160,11 +160,6 @@
 
 -->
 
-## License
-
-The code in this repository, including all code samples in the notebooks listed
-above, is released under the [MIT license](LICENSE-CODE). Read more at the
-[Open Source Initiative](https://opensource.org/licenses/MIT).
 
 ## Sponsor
 
@@ -177,3 +172,9 @@ above, is released under the [MIT license](LICENSE-CODE). Read more at the
 支付宝：
 
 ![alipay](http://oydgk2hgw.bkt.clouddn.com/pydata-book/n0det.jpeg)
+
+## License
+
+The code in this repository, including all code samples in the notebooks listed
+above, is released under the [MIT license](LICENSE-CODE). Read more at the
+[Open Source Initiative](https://opensource.org/licenses/MIT).
