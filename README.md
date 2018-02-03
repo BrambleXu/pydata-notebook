@@ -147,15 +147,15 @@
   - [A.9 Performance Tips（性能贴士）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-A/A.9%20Performance%20Tips%EF%BC%88%E6%80%A7%E8%83%BD%E8%B4%B4%E5%A3%AB%EF%BC%89.ipynb)
 
 
-<!--
+* [Appendix B: More on the IPython System（IPython系统的更多内容）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/tree/master/Appendix-B/)
+  - [B.1 Using the Command History（使用命令行历史）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-B/B.1%20Using%20the%20Command%20History%EF%BC%88%E4%BD%BF%E7%94%A8%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8E%86%E5%8F%B2%EF%BC%89.ipynb)
+  - [B.2 Interacting with the Operating System（与操作系统交互）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-B/B.2%20Interacting%20with%20the%20Operating%20System%EF%BC%88%E4%B8%8E%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%BA%A4%E4%BA%92%EF%BC%89.ipynb)
+  - [B.3 Software Development Tools（软件开发工具）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-B/B.3%20Software%20Development%20Tools%EF%BC%88%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%EF%BC%89.ipynb)
+  - [B.4 Tips for Productive Code Development Using IPython（使用IPython进行有效开发的建议）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-B/B.4%20Tips%20for%20Productive%20Code%20Development%20Using%20IPython%EF%BC%88%E4%BD%BF%E7%94%A8IPython%E8%BF%9B%E8%A1%8C%E6%9C%89%E6%95%88%E5%BC%80%E5%8F%91%E7%9A%84%E5%BB%BA%E8%AE%AE%EF%BC%89.ipynb)
+  - [B.5 Advanced IPython Features（高级IPython特性）](http://nbviewer.jupyter.org/github/BrambleXu/pydata-notebook/blob/master/Appendix-B/B.5%20Advanced%20IPython%20Features%EF%BC%88%E9%AB%98%E7%BA%A7IPython%E7%89%B9%E6%80%A7%EF%BC%89.ipynb)
 
-* [Appendix B: More on the IPython System]()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
+<!--
 
 
 -->
