@@ -157,21 +157,8 @@
 
 <!--
 
-
 -->
 
-
-## Sponsor
-
-如果觉得有帮助，可以赞个助，不论多少都是对我工作的肯定：）
-
-微信:
-
-![wechat](http://oydgk2hgw.bkt.clouddn.com/pydata-book/ynv08.jpeg)
-
-支付宝：
-
-![alipay](http://oydgk2hgw.bkt.clouddn.com/pydata-book/n0det.jpeg)
 
 ## License
 
